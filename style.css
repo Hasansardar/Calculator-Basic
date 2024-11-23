@@ -1,0 +1,46 @@
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 20px 10px;
+margin: 20;
+text-align: center;
+
+}
+
+#sum-el{
+border-bottom: 2px solid black;
+padding: 4px;
+
+
+}
+
+button{
+
+margin: 20px 0;
+background-color:white;
+color:black;
+border: 2px solid black;
+font-weight: 600;
+cursor: pointer;
+padding: 20px 10px;
+
+}
+#numAdd{
+
+    background-color: aliceblue;
+}
+#numSub{
+
+    background-color: yellowgreen;
+    color: whitesmoke;
+
+}
+#numMul{
+
+    background-color: purple;
+    color: whitesmoke;
+    box-shadow: 1cap;
+}
+#numDiv{
+
+    background-color: beige;
+}
